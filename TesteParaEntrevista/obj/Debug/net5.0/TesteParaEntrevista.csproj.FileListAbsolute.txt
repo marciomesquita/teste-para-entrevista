@@ -1,0 +1,16 @@
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.exe
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.deps.json
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.runtimeconfig.json
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.runtimeconfig.dev.json
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.dll
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\ref\TesteParaEntrevista.dll
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\bin\Debug\net5.0\TesteParaEntrevista.pdb
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.csprojAssemblyReference.cache
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.AssemblyInfoInputs.cache
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.AssemblyInfo.cs
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.dll
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\ref\TesteParaEntrevista.dll
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.pdb
+C:\Users\marci\Documents\dotnet-workspace\gft\teste-para-entrevista\TesteParaEntrevista\obj\Debug\net5.0\TesteParaEntrevista.genruntimeconfig.cache
